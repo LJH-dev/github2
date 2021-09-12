@@ -4,7 +4,7 @@ import java.util.stream.*;
 
 public class ThirtyNinth {
     public static void main(String[] args) throws IOException {
-        four();
+        one();
     }
 
     public static void one() throws IOException {
