@@ -5,9 +5,6 @@ import java.util.stream.*;
 public class ThirtyNinth {
     public static void main(String[] args) throws IOException {
         two();
-        one();
-        four();
-        three();
     }
 
     public static void one() throws IOException {
