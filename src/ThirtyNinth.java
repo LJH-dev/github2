@@ -7,6 +7,7 @@ public class ThirtyNinth {
         one();
         two();
         three();
+        four();
     }
 
     public static void one() throws IOException {
